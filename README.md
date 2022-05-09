@@ -14,8 +14,6 @@ I am a Computer Science student at PUCIT (1st Semester), mainly focusing on Full
 - 📫 How to reach me: saadstudent.cs@gmail.com
 - 😄 Pronouns: He/Him
 
-<a href="https://www.github.com/itxsaaad" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/itxsaaad?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
