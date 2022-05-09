@@ -51,7 +51,7 @@ src="https://img.shields.io/github/followers/itxsaaad?logo=github&style=for-the-
 
 <a href="http://www.github.com/itxsaaad"><img src="https://activity-graph.herokuapp.com/graph?username=itxsaaad&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/itxsaad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxsaaad&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/itxsaaad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxsaaad&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 ### Support Me
