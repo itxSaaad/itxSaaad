@@ -45,13 +45,13 @@ src="https://img.shields.io/github/followers/itxsaaad?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Itxsaaad"><img src="https://github-readme-stats.vercel.app/api?username=Itxsaaad&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="Itxsaaad's GitHub stats" /></a>
+<a href="http://www.github.com/itxsaaad"><img src="https://github-readme-stats.vercel.app/api?username=itxsaaad&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="Itxsaaad's GitHub stats" /></a>
 
-<a href="http://www.github.com/Itxsaaad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Itxsaaad&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/itxsaaad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itxsaaad&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Itxsaaad"><img src="https://activity-graph.herokuapp.com/graph?username=Itxsaaad&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/itxsaaad"><img src="https://activity-graph.herokuapp.com/graph?username=itxsaaad&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/itxtalal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itxsaaad&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/itxsaad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxsaaad&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 ### Support Me
