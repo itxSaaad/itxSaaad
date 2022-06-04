@@ -1,4 +1,4 @@
-Hi 👋 My name is SAAD
+Hi 👋 My name is Saad
 ======================
 
 Future Full Stack Web Developer
@@ -9,10 +9,14 @@ I am a Computer Science student at PUCIT (2nd Semester), mainly focusing on Full
 - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/designerd_pk?up_rollout=true) as Graphic Designer
 - 🌱 I’m currently learning JavasScript, Node.js and Web API's
 - 👯 I’m looking to collaborate on MERN Stack
-- 🤔 I’m looking for help with MERN Stack
+- ✉️  You can contact me at [saadstudent.cs@gmail.com](mailto:saadstudent.cs@gmail.com)
 -  📍 I'm based in Gujranwala, Punjab PK
-- 📫 How to reach me: saadstudent.cs@gmail.com
 - 😄 Pronouns: He/Him
+
+![](https://komarev.com/ghpvc/?username=itxSaaad&color=10b981&style=for-the-badge)
+<br />
+<a href="https://www.github.com/itxSaaad" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/itxSaaad?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -50,7 +54,6 @@ I am a Computer Science student at PUCIT (2nd Semester), mainly focusing on Full
 <a href="http://www.github.com/itxsaaad"><img src="https://activity-graph.herokuapp.com/graph?username=itxsaaad&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/itxsaaad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxsaaad&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
 ### Support Me
 
