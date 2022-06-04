@@ -4,7 +4,7 @@ Hi 👋 My name is SAAD
 Future Full Stack Web Developer
 -------------------------------
 
-I am a Computer Science student at PUCIT (1st Semester), mainly focusing on Full Stack Web development using Javascript / Typescript. I have 1 year of experience in Graphic Designing using Adobe Illustrator and Photoshop.
+I am a Computer Science student at PUCIT (2nd Semester), mainly focusing on Full Stack Web development using Javascript. I have 1 year of experience in Graphic Designing using Adobe Illustrator and Photoshop.
 
 - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/designerd_pk?up_rollout=true) as Graphic Designer
 - 🌱 I’m currently learning JavasScript, Node.js and Web API's
