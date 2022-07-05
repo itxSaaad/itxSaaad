@@ -17,7 +17,7 @@ I am a Computer Science student at PUCIT (2nd Semester), mainly focusing on Full
 <br />
 <a href="https://www.github.com/itxSaaad" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itxSaaad?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
-
+<div display="flex">
 <a href="https://app.daily.dev/itxSaaad"><img src="https://api.daily.dev/devcards/dfabac53a49b4d1599cc63bdcdcbce3c.png?r=rir" width="400" alt="Muhammad Saad's Dev Card"/></a>
 
 ### Skills
@@ -43,7 +43,7 @@ src="https://img.shields.io/github/followers/itxSaaad?logo=github&style=for-the-
 <a href="https://www.linkedin.com/in/itxsaaad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="https://www.twitter.com/RajpoOt_hn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
-
+</div>
 ### Badges
 
 <b>My GitHub Stats</b>
