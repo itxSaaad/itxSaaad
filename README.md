@@ -18,6 +18,8 @@ I am a Computer Science student at PUCIT (2nd Semester), mainly focusing on Full
 <a href="https://www.github.com/itxSaaad" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itxSaaad?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
 
+<a href="https://app.daily.dev/itxSaaad"><img src="https://api.daily.dev/devcards/dfabac53a49b4d1599cc63bdcdcbce3c.png?r=rir" width="400" alt="Muhammad Saad's Dev Card"/></a>
+
 ### Skills
 
 <p align="left">
