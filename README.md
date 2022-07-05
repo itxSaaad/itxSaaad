@@ -34,7 +34,6 @@ src="https://img.shields.io/github/followers/itxSaaad?logo=github&style=for-the-
 ### Socials
 
 <p align="left"> 
-<a href="https://www.dev.to/itxsaaad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> 
 <a href="https://discord.com/users/itxSleipnir#itxSleipnir#1830" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 <a href="https://www.facebook.com/patheticsaad98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/itxsaaad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
