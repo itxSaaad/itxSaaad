@@ -73,7 +73,7 @@ src="https://img.shields.io/github/followers/itxSaaad?logo=github&style=for-the-
   <a href="https://www.linkedin.com/in/itxSaaad" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-  <a href="https://www.twitter.com/RAjpOo_Hn" target="_blank" rel="noreferrer">
+  <a href="https://www.twitter.com/itxSaaad" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
 </p>
