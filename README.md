@@ -4,7 +4,7 @@ Hi 👋 My name is Muhammad Saad
 Front-End Developer
 -------------------
 
-I am a Computer Science student at PUCIT (2nd Semester), mainly focusing on Full Stack Web development using Javascript. I have 1 year of experience in Graphic Designing using Adobe Illustrator, Premier Pro and Photoshop.
+I am a Computer Science student at PUCIT (3rd Semester), mainly focusing on Full Stack Web development using Javascript. I have 1 year of experience in Graphic Designing using Adobe Illustrator, Premier Pro and Photoshop.
 
 * 🌍  I'm based in Gujranwala, PUNJAB PK
 * ✉️  You can contact me at [saadstudent.cs@gmail.com](mailto:saadstudent.cs@gmail.com)
