@@ -4,7 +4,7 @@ Hi 👋 My name is Muhammad Saad
 Front-End Developer
 -------------------
 
-I am a Computer Science student at PUCIT (3rd Semester), mainly focusing on Full Stack Web development using Javascript. I have 1 year of experience in Graphic Designing using Adobe Illustrator, Premier Pro and Photoshop.
+⤷ I am a Computer Science student at PUCIT (3rd Semester), mainly focusing on Full Stack Web development using JavaScript. I have 1 year of experience in Graphic Designing using Adobe Illustrator, Premier Pro and Photoshop.
 
 * ✉️  You can contact me at [saadstudent.cs@gmail.com](mailto:saadstudent.cs@gmail.com)
 * 🚀  I'm currently working on [Salah Tracker App Mern](http://salah-tracker-app-mern.vercel.app/)
@@ -12,13 +12,7 @@ I am a Computer Science student at PUCIT (3rd Semester), mainly focusing on Full
 * 🤝  I'm open to collaborating on MERN Stack
 * ⚡  I'm a Graphic Designer at Fiverr
 
-<a href="https://www.github.com/itxSaaad" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/itxSaaad?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a><a href="https://www.twitter.com/itxSaaad" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/itxSaaad?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"
-/></a>
-
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -42,7 +36,6 @@ src="https://img.shields.io/twitter/follow/itxSaaad?logo=twitter&style=for-the-b
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
-
 
 ### Socials
 
