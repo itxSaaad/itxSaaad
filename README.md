@@ -7,7 +7,7 @@ Front-End Developer
 ⤷ I am a Computer Science student at PUCIT (3rd Semester), mainly focusing on Full Stack Web development using JavaScript. I have 1 year of experience in Graphic Designing using Adobe Illustrator, Premier Pro and Photoshop.
 
 * ✉️  You can contact me at [saadstudent.cs@gmail.com](mailto:saadstudent.cs@gmail.com)
-* 🚀  I'm currently working on [TODO List App React]([https://github.com/itxSaaad/todo-list-app-react])
+* 🚀  I'm currently working on [Kariger.com - MERN App](https://github.com/junaidahmadalvi/kariger.com)
 * 🧠  I'm learning React.js, inc Hooks and Redux
 * 🤝  I'm open to collaborating on MERN Stack
 * ⚡  I'm a Graphic Designer at Fiverr
