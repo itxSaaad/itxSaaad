@@ -8,7 +8,7 @@ Front-End Developer
 
 <img src="https://komarev.com/ghpvc/?username=itxSaaad&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="itxSaaad"/>
 
-- 🔭 I’m currently working on [Kariger.com - MERN App](https://github.com/itxSaaad/kariger.com-app-mern)
+- 🔭 I’m currently working on [React Meetups - App NextJs](https://github.com/itxSaaad/meetups-app-next)
 - 🌱 I’m currently learning **Next.js, TypeScript**
 - 💬 Ask me about **React, Redux/Toolkit, Node, Express and Mongo**
 - 📫 How to reach me **saadstudent.cs@gmail.com**
