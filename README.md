@@ -8,8 +8,8 @@ Front-End Developer
 
 <img src="https://komarev.com/ghpvc/?username=itxSaaad&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="itxSaaad"/>
 
-- 🔭 I’m currently working on [Pizza Delivery System - App MERN](https://github.com/itxSaaad/pizza-delivery-system-app-mern-OIBSIP)
-- 🌱 I’m currently learning **Next.js, TypeScript**
+- 🔭 I’m currently working on [MetaVersus UI/Ux - App Next](https://github.com/itxSaaad/metaversus-ui-ux-app-next)
+- 🌱 I’m currently learning **Next.js, TypeScript, Framer Motion**
 - 💬 Ask me about **React, Redux/Toolkit, Node, Express and Mongo**
 - 📫 How to reach me **saadstudent.cs@gmail.com**
 - 📄 Know about my experiences [LinkedIn/itxsaaad/](https://www.linkedin.com/in/itxsaaad/)
