@@ -1,7 +1,7 @@
 Hi 👋 My name is Muhammad Saad
 ==============================
 
-Front-End Developer
+Full-Stack Developer
 -------------------
 
 ⤷ I am a Computer Science student at PUGC (4th Semester), mainly focusing on Full Stack Web development using JavaScript. I have 1 year of experience in Web Development using React.js and Node.js.
