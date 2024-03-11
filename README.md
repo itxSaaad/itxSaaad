@@ -1,14 +1,14 @@
 Hi 👋 My name is Muhammad Saad
-==============================
+===============================
 
 Full-Stack Developer
--------------------
+--------------------
 
-⤷ I am a Computer Science student at PUGC (4th Semester), mainly focusing on Full Stack Web development using JavaScript. I have 1 year of experience in Web Development using React.js and Node.js.
+⤷ I am a Computer Science student at PUGC (5th Semester), mainly focusing on Full Stack Web development using JavaScript. I have 1 year of experience in Web Development using React.js and Node.js.
 
 <img src="https://komarev.com/ghpvc/?username=itxSaaad&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="itxSaaad"/>
 
-- 🔭 I’m currently working on [MetaVersus UI/Ux - App Next](https://github.com/itxSaaad/metaversus-ui-ux-app-next)
+- 🔭 I’m currently working on [WeatherWise App - Next.js + TypeScript](https://github.com/itxSaaad/weatherwise-app-next-ts)
 - 🌱 I’m currently learning **Next.js, TypeScript, Framer Motion**
 - 💬 Ask me about **React, Redux/Toolkit, Node, Express and Mongo**
 - 📫 How to reach me **saadstudent.cs@gmail.com**
