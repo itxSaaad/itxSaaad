@@ -1,14 +1,14 @@
 Hi 👋 My name is Muhammad Saad
 ===============================
 
-Full-Stack Developer
---------------------
+Aspiring Full-Stack Engineer
+----------------------------
 
-⤷ I am a Computer Science student at PUGC (5th Semester), mainly focusing on Full Stack Web development using JavaScript. I have 1 year of experience in Web Development using React.js and Node.js.
+⤷ I am a  passionate and dedicated Computer Science student at the University of the Punjab - Gujranwala Campus, currently in my 3rd year (Batch of 2025). My journey in tech has been a blend of self-learning, practical experience, and leadership. With a strong focus on Full-Stack Web Development, I specialize in using the MERN stack and JavaScript technologies. My expertise extends to both frontend and backend development, ensuring a seamless and robust web experience.
 
 <img src="https://komarev.com/ghpvc/?username=itxSaaad&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="itxSaaad"/>
 
-- 🔭 I’m currently working on [WeatherWise App - Next.js + TypeScript](https://github.com/itxSaaad/weatherwise-app-next-ts)
+- 🔭 I’m currently working on [(React Careers App - React)](https://github.com/itxSaaad/react-careers-jobs-listing-app-react)
 - 🌱 I’m currently learning **Next.js, TypeScript, Framer Motion**
 - 💬 Ask me about **React, Redux/Toolkit, Node, Express and Mongo**
 - 📫 How to reach me **saadstudent.cs@gmail.com**
