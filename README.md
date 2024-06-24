@@ -8,7 +8,7 @@ Aspiring Full-Stack Engineer
 
 <img src="https://komarev.com/ghpvc/?username=itxSaaad&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="itxSaaad"/>
 
-- 🔭 I’m currently working on [(React Careers App - React)](https://github.com/itxSaaad/react-careers-jobs-listing-app-react)
+- 🔭 I’m currently working on [(React Careers App - React Firebase)](https://github.com/itxSaaad/react-careers-app-react-firebase)
 - 🌱 I’m currently learning **Next.js, TypeScript, Framer Motion**
 - 💬 Ask me about **React, Redux/Toolkit, Node, Express and Mongo**
 - 📫 How to reach me **saadstudent.cs@gmail.com**
