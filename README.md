@@ -1,10 +1,10 @@
+<img src="./linkedin-banner.png" alt="itxSaaad-profile-banner"/>
+
 Hi 👋 My name is Muhammad Saad
 ===============================
 
 Aspiring Full-Stack Engineer
 ----------------------------
-
-<img src="./linkedin-banner.png" alt="itxSaaad-profile-banner"/>
 
 ⤷ I am a  passionate and dedicated Computer Science student at the University of the Punjab - Gujranwala Campus, currently in my 3rd year (Batch of 2025). My journey in tech has been a blend of self-learning, practical experience, and leadership. With a strong focus on Full-Stack Web Development, I specialize in using the MERN stack and JavaScript technologies. My expertise extends to both frontend and backend development, ensuring a seamless and robust web experience.
 
