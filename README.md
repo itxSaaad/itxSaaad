@@ -1,4 +1,6 @@
-<img src="./linkedin-banner.png" alt="itxSaaad-profile-banner"/>
+<a href="https://portfolio-itxsaaad.vercel.app/">
+  <img src="./linkedin-banner.png" alt="itxSaaad-profile-banner"/>
+</a>
 
 Hi 👋 My name is Muhammad Saad
 ===============================
