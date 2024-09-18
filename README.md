@@ -8,7 +8,7 @@ Aspiring Full-Stack Engineer
 
 ⤷ I am a  passionate and dedicated Computer Science student at the University of the Punjab - Gujranwala Campus, currently in my 3rd year (Batch of 2025). My journey in tech has been a blend of self-learning, practical experience, and leadership. With a strong focus on Full-Stack Web Development, I specialize in using the MERN stack and JavaScript technologies. My expertise extends to both frontend and backend development, ensuring a seamless and robust web experience.
 
-<img src="https://komarev.com/ghpvc/?username=itxSaaad&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="itxSaaad-profile-views"/>
+<a href="https://portfolio-itxsaaad.vercel.app/"><img src="https://komarev.com/ghpvc/?username=itxSaaad&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="itxSaaad-profile-views"/></a>
 
 - 🔭 I’m currently working on [(CustomerConnect CRM App - MERN)](https://github.com/itxSaaad/customer-connect-crm-app-mern)
 - 🌱 I’m currently learning **Nest.js, Electron.js, shadcn/ui**
@@ -19,7 +19,7 @@ Aspiring Full-Stack Engineer
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,ts,tailwind,mui,bootstrap,react,nextjs,redux,nodejs,express,php,laravel,flask,mongodb,mysql,git,github,docker,aws,gcp,netlify,vercel,postman,npm,powershell,bash,figma,xd,illustrator,photoshop,premiere,python,c,cpp,appwrite,firebase,babel,wordpress,ubuntu,linux,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,ts,tailwind,mui,bootstrap,react,nextjs,redux,nodejs,express,electron,nestjs,php,laravel,flask,mongodb,mysql,git,github,docker,aws,gcp,azure,netlify,vercel,postman,npm,powershell,bash,figma,xd,illustrator,photoshop,premiere,python,c,cpp,appwrite,firebase,babel,wordpress,ubuntu,linux,vite)](https://skillicons.dev)
 
 ### Socials
 
