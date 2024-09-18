@@ -1,4 +1,4 @@
-<a href="https://portfolio-itxsaaad.vercel.app/">
+<a href="https://portfolio-itxsaaad.vercel.app/" target="_blank" rel="noreferrer">
   <img src="./linkedin-banner.png" alt="itxSaaad-profile-banner"/>
 </a>
 
