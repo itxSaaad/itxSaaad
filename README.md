@@ -12,8 +12,8 @@ Aspiring Full-Stack Engineer
 
 <a href="https://portfolio-itxsaaad.vercel.app/"><img src="https://komarev.com/ghpvc/?username=itxSaaad&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="itxSaaad-profile-views"/></a>
 
-- 🔭 I’m currently working on [(CustomerConnect CRM App - MERN)](https://github.com/itxSaaad/customer-connect-crm-app-mern)
-- 🌱 I’m currently learning **Nest.js, Electron.js, shadcn/ui**
+- 🔭 I’m currently working on [(OptaHire - App MERN)](https://github.com/itxSaaad/opta-hire-ai-recruitment-fyp-app-mern)
+- 🌱 I’m currently learning **WebRTC, Socket.io**
 - 💬 Ask me about **React, Redux/Toolkit, Node, Express and Mongo**
 - 📫 How to reach me **saadstudent.cs@gmail.com**
 - 📄 Know about my experiences [LinkedIn/itxsaaad/](https://www.linkedin.com/in/itxsaaad/)
