@@ -1,5 +1,5 @@
-<a href="https://portfolio-itxsaaad.vercel.app/" target="_blank" rel="noreferrer">
-  <img src="./linkedin-banner.png" alt="itxSaaad-profile-banner"/>
+<a href="https://www.codesbysaad.tech/" target="_blank" rel="noreferrer">
+  <img src="./linkedin-banner.jpg" alt="itxSaaad-profile-banner"/>
 </a>
 
 Hi 👋 My name is Muhammad Saad
@@ -10,14 +10,14 @@ Aspiring Full-Stack Engineer
 
 ⤷ I am a  passionate and dedicated Computer Science student at the University of the Punjab - Gujranwala Campus, currently in my 3rd year (Batch of 2025). My journey in tech has been a blend of self-learning, practical experience, and leadership. With a strong focus on Full-Stack Web Development, I specialize in using the MERN stack and JavaScript technologies. My expertise extends to both frontend and backend development, ensuring a seamless and robust web experience.
 
-<a href="https://portfolio-itxsaaad.vercel.app/"><img src="https://komarev.com/ghpvc/?username=itxSaaad&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="itxSaaad-profile-views"/></a>
+<a href="https://www.codesbysaad.tech/"><img src="https://komarev.com/ghpvc/?username=itxSaaad&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="itxSaaad-profile-views"/></a>
 
 - 🔭 I’m currently working on [(OptaHire FYP - App MERN)](https://github.com/itxSaaad/opta-hire-ai-recruitment-fyp-app-mern) [(Live Link)](https://opta-hire-ai-recruitment-fyp-app-mern.vercel.app/)
 - 🌱 I’m currently learning **WebRTC, Socket.io**
 - 💬 Ask me about **React, Redux/Toolkit, Node, Express and Mongo**
 - 📫 How to reach me **saadstudent.cs@gmail.com**
 - 📄 Know about my experiences [LinkedIn/itxsaaad/](https://www.linkedin.com/in/itxsaaad/)
-- 👨‍💻 All of my projects are available at [Portfolio/itxSaaad](https://portfolio-itxsaaad.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio/itxSaaad](https://www.codesbysaad.tech/)
 
 ### Skills
 
