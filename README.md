@@ -1,4 +1,4 @@
-<a href="https://www.codesbysaad.tech/" target="_blank" rel="noreferrer">
+<a href="https://codesbysaad.tech" target="_blank" rel="noreferrer">
   <img src="./linkedin-banner.jpg" alt="itxSaaad-profile-banner"/>
 </a>
 
@@ -17,7 +17,7 @@ Aspiring Full-Stack Engineer
 - 💬 Ask me about **React, Redux/Toolkit, Node, Express and Mongo**
 - 📫 How to reach me **saadstudent.cs@gmail.com**
 - 📄 Know about my experiences [LinkedIn/itxsaaad/](https://www.linkedin.com/in/itxsaaad/)
-- 👨‍💻 All of my projects are available at [Portfolio/itxSaaad](https://www.codesbysaad.tech/)
+- 👨‍💻 All of my projects are available at [Portfolio/itxSaaad](https://codesbysaad.tech)
 
 ### Skills
 
