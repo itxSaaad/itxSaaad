@@ -60,15 +60,13 @@ Aspiring Full-Stack Engineer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/itxSaaad"><img src="https://github-readme-stats.vercel.app/api?username=itxSaaad&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="itxSaaad's GitHub stats" /></a>
+[![itxSaaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=itxSaaad&show_icons=true&hide=&count_private=true&title_color=00b8db&text_color=ffffff&icon_color=00b8db&bg_color=101828&hide_border=true&show_icons=true)](http://www.github.com/itxSaaad)
 
-<a href="http://www.github.com/itxSaaad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itxSaaad&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itxSaaad&theme=gruvbox&hide_border=true&background=101828&stroke=FFFFFF&ring=00b8db&fire=00b8db&currStreakNum=ffffff&currStreakLabel=00b8db&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
 
-<a href="http://www.github.com/itxSaaad">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itxSaaad&bg_color=1c1917&color=ffffff&line=14b8a6&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
+[![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=itxSaaad&bg_color=101828&color=ffffff&line=00b8db&point=ffffff&area_color=101828&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/itxSaaad)
 
-<a href="https://github.com/itxSaaad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxSaaad&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itxSaaad&langs_count=10&title_color=00b8db&text_color=ffffff&icon_color=00b8db&bg_color=101828&hide_border=true&locale=en&custom_title=Top%20%Languages)](http://www.github.com/itxSaaad)
 
 ### Support Me
 
