@@ -2,15 +2,13 @@
   <img src="./linkedin-banner.jpg" alt="itxSaaad-profile-banner"/>
 </a>
 
-Hi 👋 My name is Muhammad Saad
-===============================
+# Hi 👋 My name is Muhammad Saad
 
-Aspiring Full-Stack Engineer
-----------------------------
+## Full-Stack Developer
 
-⤷ I am a  passionate and dedicated Computer Science student at the University of the Punjab - Gujranwala Campus, currently in my 3rd year (Batch of 2025). My journey in tech has been a blend of self-learning, practical experience, and leadership. With a strong focus on Full-Stack Web Development, I specialize in using the MERN stack and JavaScript technologies. My expertise extends to both frontend and backend development, ensuring a seamless and robust web experience.
+⤷ I am a passionate and dedicated Computer Science student at the University of the Punjab - Gujranwala Campus, currently in my 3rd year (Batch of 2025). My journey in tech has been a blend of self-learning, practical experience, and leadership. With a strong focus on Full-Stack Web Development, I specialize in using the MERN stack and JavaScript technologies. My expertise extends to both frontend and backend development, ensuring a seamless and robust web experience.
 
-<a href="https://www.codesbysaad.tech/"><img src="https://komarev.com/ghpvc/?username=itxSaaad&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="itxSaaad-profile-views"/></a>
+<a href="https://www.codesbysaad.tech/"><img src="https://komarev.com/ghpvc/?username=itxSaaad&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=101828&hide_border=true&show_icons=true" alt="itxSaaad-profile-views"/></a>
 
 - 🔭 I’m currently working on [(OptaHire - FYP)](https://github.com/itxSaaad/opta-hire-ai-recruitment-fyp-app-mern) [(Live Link)](https://opta-hire-fyp-app-client.vercel.app/)
 - 🌱 I’m currently learning **WebRTC, Socket.io**
@@ -66,7 +64,7 @@ Aspiring Full-Stack Engineer
 
 [![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=itxSaaad&bg_color=101828&color=ffffff&line=00b8db&point=ffffff&area_color=101828&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/itxSaaad)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itxSaaad&langs_count=10&title_color=00b8db&text_color=ffffff&icon_color=00b8db&bg_color=101828&hide_border=true&locale=en&custom_title=Top%20%Languages)](http://www.github.com/itxSaaad)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itxSaaad&langs_count=6&layout=compact&title_color=00b8db&text_color=ffffff&icon_color=00b8db&bg_color=101828&hide_border=true&locale=en&custom_title=Top%20Languages)](http://www.github.com/itxSaaad)
 
 ### Support Me
 
