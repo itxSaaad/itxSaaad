@@ -2,17 +2,18 @@
 
 # Hi 👋 My name is Muhammad Saad
 
-## Full-Stack Developer
+## Junior Software Engineer at Teraception
 
-⤷ I am a passionate and dedicated Computer Science student at the University of the Punjab - Gujranwala Campus, currently in my 3rd year (Batch of 2025). My journey in tech has been a blend of self-learning, practical experience, and leadership. With a strong focus on Full-Stack Web Development, I specialize in using the MERN stack and JavaScript technologies. My expertise extends to both frontend and backend development, ensuring a seamless and robust web experience.
+⤷ I am a passionate Computer Science graduate from the University of the Punjab - Gujranwala Campus (Batch of 2025). Currently working as a Junior Software Engineer at Teraception, where I focus on building scalable, enterprise-grade applications using IoC integrated structures with the MERN stack. My journey in tech has been a blend of continuous learning, practical experience, and professional growth. I specialize in Full-Stack Web Development with expertise in modern JavaScript technologies, Software Design Patterns, and Application Engineering.
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itxSaaad&theme=nord&margin-w=15&margin-h=15&column=6&&no-bg=true)
 
 ![Profile Visitors](https://komarev.com/ghpvc/?username=itxSaaad&color=blue&label=Profile+Visitors)
 
-- 🔭 I’m currently working on [(OptaHire - FYP)](https://github.com/itxSaaad/opta-hire-ai-recruitment-fyp-app-mern) [(Live Link)](https://opta-hire-fyp-app-client.vercel.app/)
-- 🌱 I’m currently learning **WebRTC, Socket.io**
-- 💬 Ask me about **React, Redux/Toolkit, Node, Express and Mongo**
+- 💼 I'm currently working at **Teraception** as Junior Software Engineer
+- 🌱 I’m currently learning **IoC Patterns, Microservices Architecture, Service/Repository Layers**
+- 💬 Ask me about **React, Redux/Toolkit, Node, Express, MongoDB, Software Design Patterns**
+- 🎓 Recently completed [(OptaHire - AI Recruitment Platform (FYP))](https://github.com/itxSaaad/opta-hire-ai-recruitment-fyp-app-mern) [(Live Link)](https://opta-hire-fyp-app-client.vercel.app/)
 - 📫 How to reach me **<saadstudent.cs@gmail.com>**
 - 📄 Know about my experiences [LinkedIn/itxsaaad/](https://www.linkedin.com/in/itxsaaad/)
 - 👨‍💻 All of my projects are available at [Portfolio/itxSaaad](https://codesbysaad.tech)
@@ -64,6 +65,17 @@
 
 [![@itxsaaad's Holopin board](https://holopin.me/itxsaaad)](https://holopin.io/@itxsaaad)
 
+### Achievements & Recognition
+
+- 🏆 Computer Science Graduate - University of the Punjab, Gujranwala Campus (2025)
+- 🎯 Selected from 2,300+ Applicants - Bytewise Limited MERN Fellowship
+- 🚀 Successfully Completed Final Year Project - OptaHire AI Recruitment Platform
+- 💼 Professional Software Engineer - Currently contributing to enterprise applications
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/itxSaaad"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<hr/>
+
+⭐️ From [itxSaaad](https://codesbysaad.tech) - Building scalable solutions, one commit at a time
