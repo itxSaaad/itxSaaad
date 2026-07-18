@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Muhammad Saad Faisal
 
-## Associate Software Engineer @ Wamo Labs · Full Stack Developer · AWS & Blockchain Specialist
+## Software Engineer @ Wamo Labs · Full Stack AI Engineer · AWS & Blockchain Specialist
 
 ⤷ A results-driven Software Engineer with 2+ years of experience building enterprise-grade applications across fintech, blockchain, and SaaS domains. Currently working at **Wamo Labs** where I architect and deliver complex solutions using AWS serverless infrastructure, Solana blockchain integrations, and modern full-stack technologies — working directly with US-based clients from day one. Passionate about clean architecture, performance optimization, and solving real-world problems through scalable software.
 
@@ -21,7 +21,7 @@
 - 🌱 Deepening expertise in **Cloud-Native Architecture, Web3, and Advanced System Design**
 - 💬 Ask me about **React, Next.js, Node.js, AWS Serverless, Solana, Design Patterns, Nest.js**
 - 🎓 CS Graduate — University of the Punjab, Gujranwala Campus (2025)
-- 📫 Reach me at **[saadstudent.cs@gmail.com](mailto:saadstudent.cs@gmail.com)**
+- 📫 Reach me at **[saadfaisal.dev@gmail.com](mailto:saadfaisal.dev@gmail.com)**
 - 👨‍💻 Portfolio & Projects → **[codesbysaad.dev](https://codesbysaad.dev)**
 - 📄 Professional Experience → **[linkedin.com/in/itxSaaad](https://www.linkedin.com/in/itxSaaad)**
 
